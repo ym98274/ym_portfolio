@@ -8,9 +8,6 @@ from pages.app4 import create_app4_page
 from pages.app5 import create_app5_page
 from pages.contact import create_contact_page
 
-import sys
-print("Python executable being used:", sys.executable)
-
 def create_demo():
     with gr.Blocks() as demo:
         with gr.Tab("Home"):
@@ -33,6 +30,6 @@ def create_demo():
 # Gradio app callable for Gunicorn
 app = create_demo()
 
-# If running locally
 if __name__ == "__main__":
+    # For local testing
     app.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 8000)))
