@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8917ac0-7c15-46dd-b099-8cf74d37f048" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolioApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/.ebextensions/01-autoscaling.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/models/navigation_classifier_01.keras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/models/pose_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/models/pose_scaler.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/models/primary_classifier_01.keras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/models/volume_classifier_01.keras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/ai_scanner_demo.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/app1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/app2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/app3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/app4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/app5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/contact.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pages/time_recorder_demo.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pose_assistant/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pose_assistant/ai_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pose_assistant/audio_transcription.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/pose_assistant/pose_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/vehicle_assistant/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/vehicle_assistant/gesture_detection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/video_assistant/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/video_assistant/frame_captioning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/video_assistant/vector_database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/video_assistant/video_processing.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qDuxe9bdMrc9ewVMpekZxYWJ3t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.app1.executor": "Run",
+    "Python.app1_05.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pose_check.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ymage/Documents/Workshop/portfolio_backup/portfolioApp",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ymage\Documents\Workshop\websitePortfolio\portfolioApp\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ymage\Documents\Workshop\websitePortfolio\portfolioApp" />
+      <recent name="C:\Users\ymage\Documents\Workshop\websitePortfolio\portfolioApp\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="portfolioApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ymage\Documents\Workshop\websitePortfolio\portfolioApp\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8917ac0-7c15-46dd-b099-8cf74d37f048" name="Changes" comment="" />
+      <created>1734209715084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734209715084</updated>
+    </task>
+    <servers />
+  </component>
+</project>
